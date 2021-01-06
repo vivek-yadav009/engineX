@@ -89,11 +89,11 @@ body{
   font-family: "Roboto", sans-serif;
 }
 body {
-  background-color: #e5e5e5;
+  background-color:#000105D6;
 }
 
 .btn__container {
-  height: 100vh;
+  height: 10vh;
   display: flex;
   justify-content: center;
   align-items: center;
